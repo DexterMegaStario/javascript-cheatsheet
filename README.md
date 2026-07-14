@@ -1,2 +1,3 @@
-# javascript-cheatsheet
+# Javascript Cheatsheet
+
 A CheatSheet to Javascript
